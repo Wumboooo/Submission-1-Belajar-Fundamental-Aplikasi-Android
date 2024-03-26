@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">myproyekakhirdua</string>
+
+    <string name="user">nama pengguna</string>
+    <string name="user_name">username</string>
+    <string name="user_followers">followers</string>
+    <string name="user_following">following</string>
+    <string name="searchbar_hint">Cari username</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="dark_mode">Dark Mode</string>
+</resources>
